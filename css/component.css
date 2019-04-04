@@ -108,24 +108,24 @@
 
 @-webkit-keyframes OpeningSequence {
 	0% {
-		text-shadow: 0 0 50px #fff;
+		text-shadow: 0 0 50px #000;
 		letter-spacing: 80px;
 		opacity: 0;
 		-webkit-transform: rotateY(-90deg);
 	}
 	50% {
-		text-shadow: 0 0 1px #fff;
+		text-shadow: 0 0 1px #000;
 		letter-spacing: 14px;
 		opacity: 0.8;
 		-webkit-transform: rotateY(0deg);
 	}
 	85% {
-		text-shadow: 0 0 1px #fff;
+		text-shadow: 0 0 1px #000;
 		opacity: 0.8;
 		-webkit-transform: rotateY(0deg) translateZ(100px);
 	}
 	100% {
-		text-shadow: 0 0 10px #fff;
+		text-shadow: 0 0 10px #000;
 		opacity: 0;
 		-webkit-transform: translateZ(130px);
 		pointer-events: none;
@@ -134,24 +134,24 @@
 
 @-moz-keyframes OpeningSequence {
 	0% {
-		text-shadow: 0 0 50px #fff;
+		text-shadow: 0 0 50px #000;
 		letter-spacing: 80px;
 		opacity: 0.2;
 		-moz-transform: rotateY(-90deg);
 	}
 	50% {
-		text-shadow: 0 0 1px #fff;
+		text-shadow: 0 0 1px #000;
 		letter-spacing: 14px;
 		opacity: 0.8;
 		-moz-transform: rotateY(0deg);
 	}
 	85% {
-		text-shadow: 0 0 1px #fff;
+		text-shadow: 0 0 1px #000;
 		opacity: 0.8;
 		-moz-transform: rotateY(0deg) translateZ(100px);
 	}
 	100% {
-		text-shadow: 0 0 10px #fff;
+		text-shadow: 0 0 10px #000;
 		opacity: 0;
 		-moz-transform: translateZ(130px);
 		pointer-events: none;
@@ -160,24 +160,24 @@
 
 @keyframes OpeningSequence {
 	0% {
-		text-shadow: 0 0 50px #fff;
+		text-shadow: 0 0 50px #000;
 		letter-spacing: 80px;
 		opacity: 0.2;
 		transform: rotateY(-90deg);
 	}
 	50% {
-		text-shadow: 0 0 1px #fff;
+		text-shadow: 0 0 1px #000;
 		letter-spacing: 14px;
 		opacity: 0.8;
 		transform: rotateY(0deg);
 	}
 	85% {
-		text-shadow: 0 0 1px #fff;
+		text-shadow: 0 0 1px #000;
 		opacity: 0.8;
 		transform: rotateY(0deg) translateZ(100px);
 	}
 	100% {
-		text-shadow: 0 0 10px #fff;
+		text-shadow: 0 0 10px #000;
 		opacity: 0;
 		transform: translateZ(130px);
 		pointer-events: none;
@@ -194,33 +194,33 @@
 @-webkit-keyframes FadeIn { 
 	0% {
 		opacity: 0;
-		text-shadow: 0 0 50px #fff;
+		text-shadow: 0 0 50px #000;
 	}
 	100% {
 		opacity: 0.8;
-		text-shadow: 0 0 1px #fff;
+		text-shadow: 0 0 1px #000;
 	}
 }
 
 @-moz-keyframes FadeIn { 
 	0% {
 		opacity: 0;
-		text-shadow: 0 0 50px #fff;
+		text-shadow: 0 0 50px #000;
 	}
 	100% {
 		opacity: 0.8;
-		text-shadow: 0 0 1px #fff;
+		text-shadow: 0 0 1px #000;
 	}
 }
 
 @keyframes FadeIn { 
 	0% {
 		opacity: 0;
-		text-shadow: 0 0 50px #fff;
+		text-shadow: 0 0 50px #000;
 	}
 	100% {
 		opacity: 0.8;
-		text-shadow: 0 0 1px #fff;
+		text-shadow: 0 0 1px #000;
 	}
 }
 
